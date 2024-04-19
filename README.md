@@ -5,7 +5,10 @@
 - 🔭 Actualmente estoy en busca de trabajo como front-end > back-end
 - Working in progress readme
 
+Front-end
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,redux,mysql,mongodb,javascript,java,spring,tailwind,ts,materialui,git,vercel,postman,aws,&perline=4)](https://skillicons.dev)
 
+Back-end
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,redux,mysql,mongodb,javascript,java,spring,tailwind,ts,materialui,git,vercel,postman,aws,&perline=4)](https://skillicons.dev)
 
 <!--
