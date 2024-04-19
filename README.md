@@ -7,6 +7,7 @@
 
 - Front end
 </br>
+
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,redux,js,ts,tailwind,materialui,figma&perline=3)](https://skillicons.dev)
 
 - Back end
