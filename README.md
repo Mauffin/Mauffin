@@ -6,10 +6,12 @@
 - Working in progress readme
 
 - Front end
+/n
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,redux,js,ts,tailwind,materialui,figma&perline=3)](https://skillicons.dev)
 
-
 - Back end
+/n
+
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,java,spring,git,vercel,postman,aws,&perline=3)](https://skillicons.dev)
 
 <!--
