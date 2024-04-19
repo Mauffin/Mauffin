@@ -5,11 +5,12 @@
 - 🔭 Actualmente estoy en busca de trabajo como front-end > back-end
 - Working in progress readme
 
-Front-end
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,redux,mysql,mongodb,javascript,java,spring,tailwind,ts,materialui,git,vercel,postman,aws,&perline=4)](https://skillicons.dev)
+-Front end
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,redux,js,ts,tailwind,materialui,figma&perline=3)](https://skillicons.dev)
 
-Back-end
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,redux,mysql,mongodb,javascript,java,spring,tailwind,ts,materialui,git,vercel,postman,aws,&perline=4)](https://skillicons.dev)
+
+-Back end
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,java,spring,git,vercel,postman,aws,&perline=3)](https://skillicons.dev)
 
 <!--
 **Mauffin/Mauffin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
