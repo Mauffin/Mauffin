@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![javascript](https://imgur.com/a/AM67Eze)
+![Damian Cardenas](https://imgur.com/a/AM67Eze)
 
 - 🔭 Actualmente estoy en busca de trabajo como front end > back end
 - ⚡ Me encuentro realizando trabajos como freelance 
