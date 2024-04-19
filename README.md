@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![javascript](https://user-images.githubusercontent.com/99658965/203847048-4f3e21cb-2326-4a43-82e0-64ee41b7b13f.gif](https://ibb.co/S5bTFQB))
+![javascript](https://imgur.com/a/AM67Eze)
 
 - 🔭 Actualmente estoy en busca de trabajo como front end > back end
 - ⚡ Me encuentro realizando trabajos como freelance 
