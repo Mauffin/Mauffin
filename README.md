@@ -3,16 +3,28 @@
 
 
 
-- 🔭 Actualmente estoy en busca de trabajo como front end > back end
-- ⚡ Me encuentro realizando trabajos como freelance
-- 📑 Mi fuerte es el desarrollo front end
-- ✨ Estoy mejorando mis habilidades de diseño en figma tanto ux / ui
+- 🔭 Actualmente estoy buscando oportunidades laborales de full stack.
+- ⚡ Me dedico actualmente a trabajos como freelance.
+- 📑 Mi especialización se encuentra en el desarrollo front end.
+- ✨ Estoy mejorando mis habilidades de diseño en Figma, tanto en UX como en UI.
+- 🚀 Estoy abierto a aprender nuevas habilidades y tecnologías para seguir creciendo profesionalmente.
+</br>
+- 🔋 Actualmente estoy aprendiendo
+</br>
+</br> 
+
+🚧 TypeScript
+
+</br> 
+
+🚧 React native con expo
 
 
 </br>
+---------------------------------------------------------------------------
+</br>
 
-
-- Front end
+- Front end 
 </br>
 
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,redux,js,ts,tailwind,materialui,figma&perline=6)](https://skillicons.dev)
@@ -22,15 +34,15 @@
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,java,spring,git,vercel,postman,aws,&perline=6)](https://skillicons.dev)
 
-</br>
 
--📫 Hablemos 
+-📫 Contactame
 </br>
 -📧 Damiancardenas22@gmail.com
 </br>
 -📱 +569 82277762
 
 
+ 
 <!--
 **Mauffin/Mauffin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -44,4 +56,6 @@ Here are some ideas to get you started:
 -  How to reach me: ...
 - 😄 Pronouns: ...
 -  Fun fact: ...
+-->
+
 -->
