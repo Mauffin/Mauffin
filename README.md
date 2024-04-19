@@ -22,6 +22,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,java,spring,git,vercel,postman,aws,&perline=6)](https://skillicons.dev)
 
+</br>
 
 -📫 Hablemos 
 </br>
