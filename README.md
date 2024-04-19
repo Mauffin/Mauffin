@@ -6,7 +6,7 @@
 - Working in progress readme
 
 
-[![My Skills](https://skillicons.dev/icons?i=python,react,redux,mysql,mongodb,javascript,java,&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,redux,mysql,mongodb,javascript,java,spring,tailwind,ts,materialui,git,vercel,postman,aws,&perline=3)](https://skillicons.dev)
 
 <!--
 **Mauffin/Mauffin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
