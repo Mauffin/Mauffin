@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![https://imgur.com/MvTShEh](https://imgur.com/MvTShEh)
+![[https://imgur.com/MvTShEh](https://imgur.com/MvTShEh)](https://imgur.com/gallery/AM67Eze)
 - 🔭 Actualmente estoy en busca de trabajo como front end > back end
 - ⚡ Me encuentro realizando trabajos como freelance 
 
