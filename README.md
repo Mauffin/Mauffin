@@ -27,12 +27,12 @@
 - Front end 
 </br>
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,redux,js,ts,tailwind,materialui,figma&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,redux,js,ts,tailwind,materialui,figma&perline=8)](https://skillicons.dev)
 
 - Back end
 </br>
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,java,spring,git,vercel,postman,aws,&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,java,spring,git,vercel,postman,aws,&perline=8)](https://skillicons.dev)
 
 
 -📫 Contactame
