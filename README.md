@@ -8,6 +8,7 @@
 - 📑 Mi especialización se encuentra en el desarrollo front end.
 - ✨ Estoy mejorando mis habilidades de diseño en Figma, tanto en UX como en UI.
 - 🚀 Estoy abierto a aprender nuevas habilidades y tecnologías para seguir creciendo profesionalmente.
+- 🖥️ intentando de crear una consultora 
 </br>
 - 🔋 Actualmente estoy aprendiendo
 </br>
