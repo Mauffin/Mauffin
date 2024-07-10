@@ -14,10 +14,6 @@
 </br>
 </br> 
 
-🚧 TypeScript
-
-</br> 
-
 🚧 React native con expo
 
 
